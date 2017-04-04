@@ -1,15 +1,12 @@
 # Developing Data Products Course - Course Project: Shiny Application and Reproducible Pitch
-There are the Coursera’s MOOC Developing Data Products Course from Johns Hopkins University. For more information about the several MOOCs comprised in this Specialization.
+This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
 
-GitHub repo: https://github.com/b33lie/shiny_app_mtcars
+Github Repository: https://github.com/XavierFontane/Course-Project-Shiny-Application-and-Reproducible-Pitch
 
-Demo: https://b33lie.shinyapps.io/shiny_app_mtcars/
+Shiny Application: https://r2po.shinyapps.io/course_project_shiny_appreproducible_pitch/
 
-Slide: http://rpubs.com/b33lie/148785
+Ioslide Presentation: http://rpubs.com/xavifu/265156
 
 ## Description
 
-An Shiny Application with providing a simple tools to select the most fit car for your trip.
-
-The data used in the app comes from the Motor Trend Car Road Tests (mtcars) dataset. 
-The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973-74 models).
+Using the data provided by Galton Families dataset, we fit a linear model to predict a child's height based on the gender and parent's average height.
